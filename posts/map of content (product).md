@@ -71,4 +71,11 @@ I've been putting together a [[comprehensive product framework]] that helps comb
 - [shreyas thoughts](https://twitter.com/shreyas/status/1628108448511696896)
 - [incompetent leaders by shreyas](https://twitter.com/shreyas/status/1339997380335128576)
 - [[strategies for one person business]]
+- [[product in the age of ai]]
+- [[gibson biddle product strategy]]
+- [[being a stupid product manager]]
+- [its always too early to hire a pm](https://twitter.com/anuatluru/status/1734656038333260064)
+- [[people mgmt]]
+- [mochary method google doc](https://docs.google.com/document/d/17AfqFdrx0lb6aYb786lY3a-17jUEoxDCRAT-BpDmh2k/edit)
+- [[perell ultimate guide to writing]]
 
