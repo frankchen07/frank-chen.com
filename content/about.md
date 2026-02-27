@@ -1,17 +1,13 @@
 hey i'm frank
 
-i'm currently on sabbatical
+i spent 2024 and 2025 on sabbatical—[**living abroad in france**](https://fronk.substack.com/t/paris), [**finding lost relatives in china**](https://fronk.substack.com/t/asia), [**co-publishing a zine of essays**](https://pathless.metalabel.com/unwritten?variantId=2) for those rewriting the rules of work, and running experiments to change the shape of my life
 
-this adventure started with [**living abroad in france in 2024**](https://fronk.substack.com/t/paris), [**finding lost relatives in china**](https://fronk.substack.com/t/asia), and has morphed into various experiments to change the shape of my life
+before that, i worked in crypto as a product manager and broke into hospitality by staging at [**2\* Michelin restaurant Birdsong SF**](https://fronk.substack.com/t/michelin) and pulling shots at Boast Coffee Co
 
-not too long ago, i broke into hopsitality [**working at 2\* Michelin restaurant Birdsong SF**](https://fronk.substack.com/t/michelin) and am currently obsessed about [**craft coffee**](https://fronk.substack.com/t/coffee) and wheel throwing pottery
+these interests have gotten me curious about the intersection of food, brand, and tech
 
-i do tons of jiujitsu too and consider it an obsession that has altered the way i think about teaching, competing, training, struggling, and learning
+i'm also deep into jiujitsu—it's an obsession that's changed how i think about teaching, competing, and learning. i write about it at [**longform jiujitsu**](https://longformjiujitsu.substack.com)
 
-i share these stories at [**longform jiujitsu**](https://longformjiujitsu.substack.com)
+lastly, i occasionally help folks [**organize their personal finances**](https://misemoney.substack.com) 
 
-also, i think stories are really important, so i recently [**co-published a zine of essays**](https://pathless.metalabel.com/unwritten?variantId=2) for those rewriting the rules of work and life
-
-lastly, i'm also helping to educate folks on [**organizing their personal finances**](https://misemoney.substack.com)
-
-if you're curious, you can [**check out my full work history**](https://www.linkedin.com/in/frankchen07/), [**download my resume**](https://frank-chen.com/resume.pdf), and work with me
+if you're curious, you can [**check out my full work history**](https://www.linkedin.com/in/frankchen07/) and work with me
