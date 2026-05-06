@@ -1,7 +1,7 @@
 ## me
 i'm frank, i've built products, worked the line, and am now figuring out how to connect the dots
 
-i've bounced between data science, product management in crypto, and operating in the real world
+my skills span analytics and storytelling with large datasets, product work in crypto, and operations in hospitality
 
 right now, i'm building my own projects with the help of our robot overlords
 
