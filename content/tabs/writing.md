@@ -1,5 +1,5 @@
 ## longform jiujitsu
-at longform jiujitsu, i talk about teaching, competing, training, struggling, and learning
+technical writings about teaching, competing, training, struggling, and learning jiujitsu
 
 i want the next generation of grapplers to level up faster, think deeply about their training, and creatively solve their own problems both on and off the mat
 
@@ -20,6 +20,6 @@ maybe another day
 [`https://misemoney.substack.com`](https://misemoney.substack.com)
 
 ## unwritten: crossing the threshold
-a zine co-published with [paul millerd](https://pmillerd.com/) & [metalabel](https://www.metalabel.com/) for those exiting the default path
+co-published a zine with [paul millerd](https://pmillerd.com/) & [metalabel](https://www.metalabel.com/) for those exiting the default path
 
 [buy a copy](https://pathless.metalabel.com/unwritten?variantId=2)

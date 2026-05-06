@@ -55,7 +55,7 @@ currently in progress
 [`https://github.com/frankchen07/fashion-bot`](https://github.com/frankchen07/fashion-bot)
 
 ## mechanic bot
-who better to look at all the service intervals, keep track of all my error codes, last services for things, and tell me exactly what i need when i say that my car is at XXXXXX mileage
+who better to look at all the service intervals, keep track of all my error codes, last services for things, and tell me exactly what i need when i say that my car is at XXX mileage
 
 also, is my mechanic bullshitting me? (he's not)
 
@@ -72,6 +72,13 @@ small coffee businesses can also have nice, modern sites
 
 [`https://github.com/frankchen07/boastcoffeeco-site`](https://github.com/frankchen07/boastcoffeeco-site)
 
+## quadratic funding for ethereum oss
+distributed 5mm to 1k+ open source developers in the ethereum ecosystem using a first-to-market quadratic funding mechanism
+
+we fought the tragedy of the commons, keeping open source software alive
+
+[`https://vitalik.eth.limo/general/2019/10/24/gitcoin.html`](https://vitalik.eth.limo/general/2019/10/24/gitcoin.html)
+
 ## video downloader
 this script basically abstracts away two commands to download youtube videos, so all i have to do is enter a url, and accept or reject formats to get it kicked off
 
@@ -80,7 +87,7 @@ helps to clip out jiujitsu videos for my reference later
 [`https://github.com/frankchen07/video-dl`](https://github.com/frankchen07/video-dl)
 
 ## cache cleaner
-i am neurotic cache cleaner freak
+i am a neurotic cache cleaner freak
 
 i know i know, caches are good
 
@@ -89,9 +96,9 @@ sometimes i want things clean tho, so let's clear out spotify, telegram, whatsap
 [`https://github.com/frankchen07/cache-cleaner`](https://github.com/frankchen07/cache-cleaner)
 
 ## homebrew checker
-i am neurotic package manager freak
+i am a neurotic package manager freak
 
-check applications on macosx to see if they are installed by homebrew or not, and if it's supported by homebrew or not
+checks applications on macosx to see if they are installed by homebrew or not, and if it's supported by homebrew or not
 
 [`https://github.com/frankchen07/homebrew-checker`](https://github.com/frankchen07/homebrew-checker)
 
