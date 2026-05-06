@@ -5,8 +5,8 @@
 }
 
 .name {
-  font-size: 1rem;
-  font-weight: 400;
+  font-size: 1.5rem;
+  font-weight: 700;
   margin: 0 0 2.5rem 0;
 }
 
@@ -23,7 +23,7 @@
   background: none;
   border: none;
   padding: 0;
-  font-family: inherit;
+  font-family: 'Inconsolata', monospace;
   font-size: 1rem;
   line-height: 1.6;
   color: inherit;
@@ -66,6 +66,7 @@
   padding: 0.1rem 0;
   opacity: 0.3;
   cursor: pointer;
+  font-family: 'Inconsolata', monospace;
   font-size: 1rem;
   line-height: 1.6;
   user-select: none;
