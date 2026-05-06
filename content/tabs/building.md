@@ -1,0 +1,99 @@
+## snappo, an openclaw
+set up an openclaw instance for myself, things learned:
+- headless setup, ssh
+- model selection to not burn all my monies
+- cron versus heartbeats
+- logs to short-term memory to long-term memory
+- how memory compaction and clearing works
+- creating snappo's personality
+- creating my own personality
+- creating skills
+- munging context
+- when to subagent, when to main agent
+- session scoping and concurrency
+- still learning shit
+
+[`https://github.com/frankchen07/snappo-claw`](https://github.com/frankchen07/snappo-claw)
+
+## protonflow
+i use protonmail instead of gmail because of privacy, but (goddamn it) they don't give you standard gmail shortcuts
+
+proton has this huge thread of people complaining about it, dating all the way back to 2022
+
+everyone was +1-ing this thread for a feature to have better shortcuts, but no one was doing anything, not even proton
+
+so i just made one that manipulates DOM elements only (so still security conscious) and it's currently in review on google chrome extension store
+
+cool
+
+[`https://github.com/frankchen07/protonflow`](https://github.com/frankchen07/protonflow)
+
+## youtube content loader
+i take training videos every time i train, for myself and for my training partners
+
+teaching videos are public, training videos are unlisted
+
+playlists are different, naming scheme is determined by date, time of day, location, and type of training
+
+youtube uploads are only one at a time
+
+i got sick of doing this, let's have snappo do it
+
+part of snappo-claw
+
+[`https://github.com/frankchen07/snappo-claw/blob/main/jjvideos/process.sh`](https://github.com/frankchen07/snappo-claw/blob/main/jjvideos/process.sh)
+
+## fashion bot
+my partner got me looking good, and i'm addicted
+
+i don't know shit about fashion
+
+i scraped a bunch of favorite menswear sites, and made an app to identify what the heck i'm wearing and recommendations on how i look
+
+currently in progress
+
+[`https://github.com/frankchen07/fashion-bot`](https://github.com/frankchen07/fashion-bot)
+
+## mechanic bot
+who better to look at all the service intervals, keep track of all my error codes, last services for things, and tell me exactly what i need when i say that my car is at XXXXXX mileage
+
+also, is my mechanic bullshitting me? (he's not)
+
+never have to log anything again, just tell it to snappo
+
+part of snappo-claw 
+
+[`https://github.com/frankchen07/snappo-claw/tree/main/mechanic`](https://github.com/frankchen07/snappo-claw/tree/main/mechanic)
+
+## boast coffee site remodel
+small coffee businesses can also have nice, modern sites
+
+[`https://boastcoffeeco-site.vercel.app`](https://boastcoffeeco-site.vercel.app/)
+
+[`https://github.com/frankchen07/boastcoffeeco-site`](https://github.com/frankchen07/boastcoffeeco-site)
+
+## video downloader
+this script basically abstracts away two commands to download youtube videos, so all i have to do is enter a url, and accept or reject formats to get it kicked off
+
+helps to clip out jiujitsu videos for my reference later
+
+[`https://github.com/frankchen07/video-dl`](https://github.com/frankchen07/video-dl)
+
+## cache cleaner
+i am neurotic cache cleaner freak
+
+i know i know, caches are good
+
+sometimes i want things clean tho, so let's clear out spotify, telegram, whatsapp, and other caches in one go
+
+[`https://github.com/frankchen07/cache-cleaner`](https://github.com/frankchen07/cache-cleaner)
+
+## homebrew checker
+i am neurotic package manager freak
+
+check applications on macosx to see if they are installed by homebrew or not, and if it's supported by homebrew or not
+
+[`https://github.com/frankchen07/homebrew-checker`](https://github.com/frankchen07/homebrew-checker)
+
+## everything else
+[`https://github.com/frankchen07?tab=repositories`](https://github.com/frankchen07?tab=repositories)
