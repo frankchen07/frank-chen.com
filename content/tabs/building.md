@@ -72,7 +72,7 @@ small coffee businesses can also have nice, modern sites
 
 [`https://github.com/frankchen07/boastcoffeeco-site`](https://github.com/frankchen07/boastcoffeeco-site)
 
-## quadratic funding for ethereum oss
+## quadratic funding for ethereum
 distributed 5mm to 1k+ open source developers in the ethereum ecosystem using a first-to-market quadratic funding mechanism
 
 we fought the tragedy of the commons, keeping open source software alive
