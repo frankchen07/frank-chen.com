@@ -10,7 +10,9 @@ also, i write to think out loud
 here's [my linkedin](https://www.linkedin.com/in/frankchen07/) if you still like that kinda stuff
 
 ## sabbatical
-i'm a firm believer of taking time off at critical junction points in life to reinvent yourself. i spent 2024 and 2025 on sabbatical, running experiments to change the shape of my life:
+i'm a firm believer of taking time off at critical junction points in life to reinvent yourself
+
+i spent 2024 and 2025 on sabbatical, running experiments to change the shape of my life:
 
 ✈️ [lived abroad in france](https://fronk.substack.com/t/paris)
 

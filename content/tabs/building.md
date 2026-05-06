@@ -22,22 +22,22 @@ proton has this huge thread of people complaining about it, dating all the way b
 
 everyone was +1-ing this thread for a feature to have better shortcuts, but no one was doing anything, not even proton
 
-so i just made one that manipulates DOM elements only (so still security conscious) and it's currently in review on google chrome extension store
+so i just made one that manipulates DOM elements only (so still security conscious) and it's currently in review on the chrome extension store
 
 cool
 
 [`https://github.com/frankchen07/protonflow`](https://github.com/frankchen07/protonflow)
 
 ## youtube content loader
-i take training videos every time i train, for myself and for my training partners
+i take jiujitsu videos every time i train, for myself and for my training partners
 
-teaching videos are public, training videos are unlisted
+proccessing and uploading them is a pain, because they have to be searchable
 
-playlists are different, naming scheme is determined by date, time of day, location, and type of training
+teaching videos are public, training videos are unlisted, the playlists for each type are different, and the naming scheme is determined by date, time of day, location, and type of training
 
-youtube uploads are only one at a time
+youtube publishing is one at at time if done by human
 
-i got sick of doing this, let's have snappo do it
+i got sick of doing all that, let's have snappo do it
 
 part of snappo-claw
 
@@ -48,7 +48,7 @@ my partner got me looking good, and i'm addicted
 
 i don't know shit about fashion
 
-i scraped a bunch of favorite menswear sites, and made an app to identify what the heck i'm wearing and recommendations on how i look
+i scraped a bunch of favorite menswear sites and made an app to identify what the heck i'm wearing and recommendations on how i look
 
 currently in progress
 
@@ -80,7 +80,7 @@ we fought the tragedy of the commons, keeping open source software alive
 [`https://vitalik.eth.limo/general/2019/10/24/gitcoin.html`](https://vitalik.eth.limo/general/2019/10/24/gitcoin.html)
 
 ## video downloader
-this script basically abstracts away two commands to download youtube videos, so all i have to do is enter a url, and accept or reject formats to get it kicked off
+this script abstracts away two commands to download youtube videos, so all i have to do is enter a url, and accept or reject formats to get it kicked off
 
 helps to clip out jiujitsu videos for my reference later
 
@@ -91,14 +91,14 @@ i am a neurotic cache cleaner freak
 
 i know i know, caches are good
 
-sometimes i want things clean tho, so let's clear out spotify, telegram, whatsapp, and other caches in one go
+sometimes i want things clean, so let's clear out spotify, telegram, whatsapp, and other caches in one go
 
 [`https://github.com/frankchen07/cache-cleaner`](https://github.com/frankchen07/cache-cleaner)
 
 ## homebrew checker
 i am a neurotic package manager freak
 
-checks applications on macosx to see if they are installed by homebrew or not, and if it's supported by homebrew or not
+this checks applications on macosx to see if they are installed by homebrew or not, and if it's supported by homebrew or not
 
 [`https://github.com/frankchen07/homebrew-checker`](https://github.com/frankchen07/homebrew-checker)
 

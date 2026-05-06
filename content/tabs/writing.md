@@ -13,7 +13,7 @@ dispatches from my sabbatical and my personal life: paris, china, michelin kitch
 ## mise en money
 personal finance for people who want to be as organized as chef is with their meez
 
-i had a few clients, but this is a business that ultimately failed
+i had a few clients, but this was a business that ultimately failed
 
 maybe another day
 
