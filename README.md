@@ -1,1 +1,3 @@
-This is a final template for [Learn Next.js](https://nextjs.org/learn).
+# README.md
+
+personal website for frank: [`https://frank-chen.com`](https://frank-chen.com)

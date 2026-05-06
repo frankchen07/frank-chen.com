@@ -13,10 +13,6 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "remark": "^14.0.1",
-    "remark-html": "^15.0.0",
-    "remark-wiki-link": "^1.0.4",
-    "viem": "^2.42.0",
-    "x402-fetch": "^1.0.0",
-    "x402-next": "^0.7.1"
+    "remark-html": "^15.0.0"
   }
 }
