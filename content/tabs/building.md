@@ -102,5 +102,12 @@ this checks applications on macosx to see if they are installed by homebrew or n
 
 [`https://github.com/frankchen07/homebrew-checker`](https://github.com/frankchen07/homebrew-checker)
 
+## ai prompts
+i share prompts i use to build stuff here
+
+i almost always add additional things i've prompted it to fix so next time, the prompts catch more edge cases
+
+[https://github.com/frankchen07/ai-prompts`](https://github.com/frankchen07/ai-prompts)
+
 ## everything else
 [`https://github.com/frankchen07?tab=repositories`](https://github.com/frankchen07?tab=repositories)
