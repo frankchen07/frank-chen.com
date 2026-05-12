@@ -22,4 +22,4 @@ maybe another day
 ## unwritten: crossing the threshold
 co-published a zine with [paul millerd](https://pmillerd.com/) & [metalabel](https://www.metalabel.com/) for those exiting the default path
 
-[buy a copy](https://pathless.metalabel.com/unwritten?variantId=2)
+[`buy a copy`](https://pathless.metalabel.com/unwritten?variantId=2)
