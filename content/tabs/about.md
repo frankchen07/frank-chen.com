@@ -36,7 +36,7 @@ i keep it alive by slinging craft coffee at [boast coffee co](https://www.boastc
 ## jiujitsu
 jiujitsu is a long-time obsession that's changed how i think about teaching, competing, and learning
 
-i'm on the mats training everyday at [10psj](https://www.10thplanetsj.com/) or [10psm](https://www.10thplanetsm.com)
+i'm on the mats training everyday at [10psj](https://www.10thplanetsj.com/) or teaching at [10psm](https://www.10thplanetsm.com)
 
 i write about it at [longform jiujitsu](https://longformjiujitsu.substack.com)
 
