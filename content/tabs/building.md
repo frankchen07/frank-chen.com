@@ -43,7 +43,7 @@ part of snappo-claw
 
 [`https://github.com/frankchen07/snappo-claw/blob/main/jjvideos/process.sh`](https://github.com/frankchen07/snappo-claw/blob/main/jjvideos/process.sh)
 
-## ramit sethi bot
+## ramit sethi advisor
 i made an agent pipeline harness that imitates ramit sethi
 
 i use a rag model for knowledge management, and some runtime contexts to help it be a ramit actor
