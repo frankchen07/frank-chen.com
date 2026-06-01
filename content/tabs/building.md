@@ -43,6 +43,17 @@ part of snappo-claw
 
 [`https://github.com/frankchen07/snappo-claw/blob/main/jjvideos/process.sh`](https://github.com/frankchen07/snappo-claw/blob/main/jjvideos/process.sh)
 
+## ramit sethi bot
+i made an agent pipeline harness that imitates ramit sethi
+
+i use a rag model for knowledge management, and some runtime contexts to help it be a ramit actor
+
+i'd like to surface a chatbot through discord, and add some memory to it
+
+currently in progress
+
+[`https://github.com/frankchen07/agent-pipeline`](https://github.com/frankchen07/agent-pipeline)
+
 ## fashion bot
 my partner got me looking good, and i'm addicted
 
@@ -50,7 +61,7 @@ i don't know shit about fashion
 
 i scraped a bunch of favorite menswear sites and made an app to identify what the heck i'm wearing and recommendations on how i look
 
-currently in progress
+currently in progress on expo go
 
 [`https://github.com/frankchen07/fashion-bot`](https://github.com/frankchen07/fashion-bot)
 
@@ -75,7 +86,7 @@ small coffee businesses can also have nice, modern sites
 ## quadratic funding for ethereum
 distributed 5mm to 1k+ open source developers in the ethereum ecosystem using a first-to-market quadratic funding mechanism
 
-we fought the tragedy of the commons, keeping open source software alive
+we fought the tragedy of the commons and kept open source software alive
 
 [`https://vitalik.eth.limo/general/2019/10/24/gitcoin.html`](https://vitalik.eth.limo/general/2019/10/24/gitcoin.html)
 
