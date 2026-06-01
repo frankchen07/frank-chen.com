@@ -6,7 +6,7 @@ i want the next generation of grapplers to level up faster, think deeply about t
 [`https://longformjiujitsu.substack.com`](https://longformjiujitsu.substack.com)
 
 ## frank's newsletter
-dispatches from my sabbatical and my personal life: paris, china, michelin kitchens, and rewriting the rules of work
+dispatches from my sabbatical and my personal life: paris, china, michelin kitchens, projects, and rewriting the rules of work
 
 [`https://fronk.substack.com`](https://fronk.substack.com)
 
