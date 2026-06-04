@@ -1,3 +1,16 @@
+## protonflow
+i use protonmail instead of gmail because of privacy, but (goddamn it) they don't give you standard gmail shortcuts
+
+proton has this huge thread of people complaining about it, dating all the way back to 2022
+
+everyone was +1-ing this thread for a feature to have better shortcuts, but no one was doing anything, not even proton
+
+so i just made one that manipulates DOM elements only (so still security conscious) and it's currently in review on the chrome extension store
+
+cool
+
+[`https://github.com/frankchen07/protonflow`](https://github.com/frankchen07/protonflow)
+
 ## snappo, an openclaw
 set up an openclaw instance for myself, things learned:
 - headless setup, ssh
@@ -15,19 +28,6 @@ set up an openclaw instance for myself, things learned:
 
 [`https://github.com/frankchen07/snappo-claw`](https://github.com/frankchen07/snappo-claw)
 
-## protonflow
-i use protonmail instead of gmail because of privacy, but (goddamn it) they don't give you standard gmail shortcuts
-
-proton has this huge thread of people complaining about it, dating all the way back to 2022
-
-everyone was +1-ing this thread for a feature to have better shortcuts, but no one was doing anything, not even proton
-
-so i just made one that manipulates DOM elements only (so still security conscious) and it's currently in review on the chrome extension store
-
-cool
-
-[`https://github.com/frankchen07/protonflow`](https://github.com/frankchen07/protonflow)
-
 ## youtube content loader
 i take jiujitsu videos every time i train, for myself and for my training partners
 
@@ -37,22 +37,20 @@ teaching videos are public, training videos are unlisted, the playlists for each
 
 youtube publishing is one at at time if done by human
 
-i got sick of doing all that, let's have snappo do it
+originally, this was part of snappo
 
-part of snappo-claw
+it got too brittle, so now it's just a bunch of scripts
 
-[`https://github.com/frankchen07/snappo-claw/blob/main/jjvideos/process.sh`](https://github.com/frankchen07/snappo-claw/blob/main/jjvideos/process.sh)
+[`https://github.com/frankchen07/jiujitsu-pipeline`](https://github.com/frankchen07/jiujitsu-pipeline)
 
 ## ramit sethi advisor
 i made an agent pipeline harness that imitates ramit sethi
 
 i use a rag model for knowledge management, and some runtime contexts to help it be a ramit actor
 
-i'd like to surface a chatbot through discord, and add some memory to it
-
 currently in progress
 
-[`https://github.com/frankchen07/agent-pipeline`](https://github.com/frankchen07/agent-pipeline)
+[`https://github.com/frankchen07/ramit-agent`](https://github.com/frankchen07/ramit-agent)
 
 ## fashion bot
 my partner got me looking good, and i'm addicted
@@ -70,11 +68,9 @@ who better to look at all the service intervals, keep track of all my error code
 
 also, is my mechanic bullshitting me? (he's not)
 
-never have to log anything again, just tell it to snappo
+never have to log anything again, just tell it to my ai agent
 
-part of snappo-claw 
-
-[`https://github.com/frankchen07/snappo-claw/tree/main/mechanic`](https://github.com/frankchen07/snappo-claw/tree/main/mechanic)
+[`https://github.com/frankchen07/car-agent`](https://github.com/frankchen07/car-agent)
 
 ## boast coffee site remodel
 small coffee businesses can also have nice, modern sites
