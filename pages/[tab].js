@@ -19,11 +19,18 @@ function parseSections(content) {
   })
 }
 
-export default function Page({ tabs }) {
-  return <Home tabs={tabs} initialTab={0} />
+export default function Page({ tabs, initialTab }) {
+  return <Home tabs={tabs} initialTab={initialTab} />
 }
 
-export async function getStaticProps() {
+export async function getStaticPaths() {
+  return {
+    paths: TABS.map(tab => ({ params: { tab } })),
+    fallback: false,
+  }
+}
+
+export async function getStaticProps({ params }) {
   const tabsDir = path.join(process.cwd(), 'content', 'tabs')
 
   const processBody = async (body) => {
@@ -52,5 +59,10 @@ export async function getStaticProps() {
     })
   )
 
-  return { props: { tabs } }
+  return {
+    props: {
+      tabs,
+      initialTab: TABS.indexOf(params.tab),
+    },
+  }
 }
