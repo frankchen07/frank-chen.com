@@ -1,7 +1,7 @@
 ## me
 i'm frank, i've built products, worked the line, and am now figuring out how to connect the dots
 
-my skills span analytics and storytelling with large datasets, product work in crypto, and operations in hospitality
+my skills span building products in crypto, analytics and storytelling with large datasets, and operations in hospitality
 
 right now, i'm building my own projects with the help of our robot overlords
 
@@ -10,7 +10,7 @@ also, i write to think out loud
 here's [my linkedin](https://www.linkedin.com/in/frankchen07/) if you still like that kinda stuff
 
 ## sabbatical
-i'm a firm believer of taking time off at critical junction points in life to reinvent yourself
+i'm a firm believer of taking time off at critical junction points in life to reinvent yourself and learn new skills
 
 i spent 2024 and 2025 on sabbatical, running experiments to change the shape of my life:
 
@@ -24,7 +24,7 @@ i spent 2024 and 2025 on sabbatical, running experiments to change the shape of 
 
 🫟 [started and failed at a personal finance consulting business](https://misemoney.substack.com)
 
-🤖 started building stuff with ai
+🤖 [started building stuff with ai](https://frank-chen.com/building)
 
 ## hospitality
 i staged and worked at [2⭐️ michelin restaurant birdsong sf](https://fronk.substack.com/t/michelin) as one of my very first hospitality experiences

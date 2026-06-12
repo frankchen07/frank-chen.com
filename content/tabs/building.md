@@ -5,11 +5,11 @@ proton has this huge thread of people complaining about it, dating all the way b
 
 everyone was +1-ing this thread for a feature to have better shortcuts, but no one was doing anything, not even proton
 
-so i just made one that manipulates DOM elements only (so still security conscious) and it's currently in review on the chrome extension store
+so i just made one that manipulates DOM elements only (so still security conscious) and it's currently in the chrome extension store
 
 cool
 
-[`https://github.com/frankchen07/protonflow`](https://github.com/frankchen07/protonflow)
+[`try it`](https://chromewebstore.google.com/detail/protonflow/jnjibammgfdmciiofkipmipmhfkkkjlp) or go to the [`source code`](https://github.com/frankchen07/protonflow)
 
 ## snappo, an openclaw
 set up an openclaw instance for myself, things learned:
@@ -39,18 +39,27 @@ youtube publishing is one at at time if done by human
 
 originally, this was part of snappo
 
-it got too brittle, so now it's just a bunch of scripts
+it got too brittle, so now it's automated scripts
 
 [`https://github.com/frankchen07/jiujitsu-pipeline`](https://github.com/frankchen07/jiujitsu-pipeline)
 
 ## ramit sethi advisor
 i made an agent pipeline harness that imitates ramit sethi
 
-i use a rag model for knowledge management, and some runtime contexts to help it be a ramit actor
-
-currently in progress
+i use a rag model for knowledge management, and some runtime contexts to help it be a ramit actor without burning a ton of tokens
 
 [`https://github.com/frankchen07/ramit-agent`](https://github.com/frankchen07/ramit-agent)
+
+## car agent
+who better to look at all the service intervals, keep track of all my error codes, last services for things, and tell me exactly what i need when i say that my car is at XXX mileage
+
+also, is my mechanic bullshitting me? (he's not)
+
+never have to log anything again, just tell it to my ai agent
+
+it has a similar agent harness as the ramit bot, but with some modifications
+
+[`https://github.com/frankchen07/car-agent`](https://github.com/frankchen07/car-agent)
 
 ## fashion bot
 my partner got me looking good, and i'm addicted
@@ -63,17 +72,8 @@ currently in progress on expo go
 
 [`https://github.com/frankchen07/fashion-bot`](https://github.com/frankchen07/fashion-bot)
 
-## mechanic bot
-who better to look at all the service intervals, keep track of all my error codes, last services for things, and tell me exactly what i need when i say that my car is at XXX mileage
-
-also, is my mechanic bullshitting me? (he's not)
-
-never have to log anything again, just tell it to my ai agent
-
-[`https://github.com/frankchen07/car-agent`](https://github.com/frankchen07/car-agent)
-
 ## boast coffee site remodel
-small coffee businesses can also have nice, modern sites
+i offered to help the coffee company i'm working with to improve their tech stack
 
 [`https://boastcoffeeco-site.vercel.app`](https://boastcoffeeco-site.vercel.app/)
 

@@ -10,16 +10,7 @@ dispatches from my sabbatical and my personal life: paris, china, michelin kitch
 
 [`https://fronk.substack.com`](https://fronk.substack.com)
 
-## mise en money
-personal finance for people who want to be as organized as chef is with their meez
-
-i had a few clients, but this was a business that ultimately failed
-
-maybe another day
-
-[`https://misemoney.substack.com`](https://misemoney.substack.com)
-
 ## unwritten: crossing the threshold
-co-published a zine with [paul millerd](https://pmillerd.com/) & [metalabel](https://www.metalabel.com/) for those exiting the default path
+co-published a zine with [paul millerd](https://pmillerd.com/) & [metalabel](https://www.metalabel.com/) for those exiting a default path
 
 [`buy a copy`](https://pathless.metalabel.com/unwritten?variantId=2)
