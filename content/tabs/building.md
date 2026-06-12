@@ -48,6 +48,8 @@ i made an agent pipeline harness that imitates ramit sethi
 
 i use a rag model for knowledge management, and some runtime contexts to help it be a ramit actor without burning a ton of tokens
 
+now, i can have ramit yell at me through telegram to make better financial decisions
+
 [`https://github.com/frankchen07/ramit-agent`](https://github.com/frankchen07/ramit-agent)
 
 ## car agent
